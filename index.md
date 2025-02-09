@@ -2,7 +2,6 @@
 title: Welcome to Vladimir Estevez's portfolio 
 ---
 
-// filepath: index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
