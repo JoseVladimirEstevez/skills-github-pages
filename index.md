@@ -24,13 +24,10 @@ title: Welcome to Vladimir Estevez's portfolio
             </ul>
         </nav>
     </header>
-
-    <!-- About Section -->
     <section id="about">
         <h2>About Me</h2>
         <p>Third-year Computer Science student at [Your University]. Passionate about [Your Interests].</p>
     </section>
-
     <!-- Projects Section -->
     <section id="projects">
         <h2>Projects</h2>
@@ -43,7 +40,6 @@ title: Welcome to Vladimir Estevez's portfolio
             </ul>
             <a href="#">GitHub Link</a>
         </article>
-
         <article>
             <h3>Project 2</h3>
             <p>Description of your second project</p>
@@ -54,7 +50,6 @@ title: Welcome to Vladimir Estevez's portfolio
             <a href="#">GitHub Link</a>
         </article>
     </section>
-
     <!-- Skills Section -->
     <section id="skills">
         <h2>Technical Skills</h2>
@@ -65,7 +60,6 @@ title: Welcome to Vladimir Estevez's portfolio
             <li>Tools: Git, VS Code, Eclipse</li>
         </ul>
     </section>
-
     <!-- Contact Section -->
     <section id="contact">
         <h2>Contact Me</h2>
@@ -75,10 +69,10 @@ title: Welcome to Vladimir Estevez's portfolio
             <li>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></li>
         </ul>
     </section>
-
     <!-- Footer -->
     <footer>
         <p>&copy; 2025 Your Name. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
